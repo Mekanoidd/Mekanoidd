@@ -10,5 +10,5 @@
   <img align="center" alt="Yan-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Yan-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Yan-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Yan-pic" height="300" style="border-radius:50px; position:absolute;" src="https://i.imgur.com/DIFZKgC.jpg">
+  <img align="right" alt="Yan-pic" height="200" style="border-radius:50px;" src="https://i.imgur.com/DIFZKgC.jpg">
 </div>
