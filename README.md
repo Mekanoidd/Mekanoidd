@@ -1,8 +1,8 @@
 ### Ola eu sou Yan da Silva Barbosa 👋
 
 - 🔭 Estou trabalhando em projetos pessoais
-- 🌱 Estou aprendendo Java
-- 👯 Estou procurando por novas oportunidade
+- 🌱 Estou aprendendo aprendendo mais sobre AI
+- 👯 Me expecializando no Uso de Django
 
 
 <div style="display: inline_block"><br>
